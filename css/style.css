@@ -1,0 +1,14 @@
+
+
+body{
+    background: #b6b6b6;
+}
+#login_view{
+    width: 300px;
+    background: #f0f0f0;
+    border: 1px solid white;
+    margin: 250px auto 0;
+    padding:1em;
+    
+}
+
